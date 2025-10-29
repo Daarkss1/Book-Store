@@ -1,0 +1,29 @@
+3|Harry Potter si Piatra Filozofala|J.K. Rowling|Fictiune|1997
+4|Dune|Frank Herbert|Fictiune|1965
+5|1984|George Orwell|Fictiune|1949
+6|Crima si pedeapsa|Fyodor Dostoevsky|Fictiune|1866
+7|To Kill a Mockingbird|Harper Lee|Fictiune|1960
+8|The Catcher in the Rye|J.D. Salinger|Fictiune|1951
+9|Don Quijote|Miguel de Cervantes|Fictiune|1605
+10|Razboi si pace|Leo Tolstoy|Fictiune|1869
+11|The Great Gatsby|F. Scott Fitzgerald|Fictiune|1925
+12|Brave New World|Aldous Huxley|Fictiune|1932
+13|The Road|Cormac McCarthy|Fictiune|2006
+14|Catch-22|Joseph Heller|Fictiune|1961
+15|Animal Farm|George Orwell|Fictiune|1945
+16|The Lord of the Rings|J.R.R. Tolkien|Fictiune|1954
+17|Pride and Prejudice|Jane Austen|Fictiune|1813
+18|The Hobbit|J.R.R. Tolkien|Fictiune|1937
+19|Fahrenheit 451|Ray Bradbury|Fictiune|1953
+20|A Clockwork Orange|Anthony Burgess|Fictiune|1962
+21|Wuthering Heights|Emily Bronte|Fictiune|1847
+22|Jane Eyre|Charlotte Bronte|Fictiune|1847
+23|The Catch-22|Joseph Heller|Fictiune|1961
+24|Invisible Man|Ralph Ellison|Fictiune|1952
+25|The Sun Also Rises|Ernest Hemingway|Fictiune|1926
+26|Beloved|Toni Morrison|Fictiune|1987
+27|The Grapes of Wrath|John Steinbeck|Fictiune|1939
+28|Ulysses|James Joyce|Fictiune|1922
+29|The Bell Jar|Sylvia Plath|Fictiune|1963
+2|Micul Print|Antoine de Saint-Exupery|Fictiune|1943
+1|Marea Speranta|Stephen King|Fictiune|1978

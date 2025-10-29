@@ -1,0 +1,1 @@
+﻿D:\School\year 2\OOP\lab 10-11\lab 10-11\lab 10-11\lab 10-11.vcxproj(55,5): error MSB4019: The imported project "D:\School\year 2\OOP\lab 10-11\lab 10-11\lab 10-11\QtMsBuild\Qt.props" was not found. Confirm that the expression in the Import declaration "D:\School\year 2\OOP\lab 10-11\lab 10-11\lab 10-11\QtMsBuild\Qt.props" is correct, and that the file exists on disk.
